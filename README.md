@@ -1,6 +1,8 @@
 # Django-TODO-Application
 
-TechStack Used: Framework: Django = 3.2.9 Language: Python = 3.9.6 
+TechStack Used: 
+1. Framework: Django = 3.2.14
+2. Language: Python = 3.9.6 
 
 Commands To Run Project:
 
