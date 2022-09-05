@@ -2,7 +2,7 @@
 
 TechStack Used: 
 1. Framework: Django = 3.2.14
-2. Language: Python = 3.9.6 
+2. Language: Python = 3.10.1
 
 Commands To Run Project:
 
