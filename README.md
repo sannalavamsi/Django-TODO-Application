@@ -1,5 +1,7 @@
 # Django-TODO-Application
 
+This project is based on CRUD Methods. where users can add an Todo's and read all Todo's, mark a particular Todo when they have completed. 
+
 TechStack Used: 
 1. Framework: Django = 3.2.14
 2. Language: Python = 3.10.1
